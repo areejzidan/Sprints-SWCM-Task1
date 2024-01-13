@@ -1,2 +1,6 @@
 Line on Master
+<<<<<<< HEAD
 Line on Feature 1
+=======
+Line on Feature 1 --> 2
+>>>>>>> Feature2
